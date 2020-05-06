@@ -11,4 +11,4 @@ There are two phases in recursion
 
 # How Recursion uses stack
 
-![Recursion Stack Use]()
+![Recursion Stack Use](https://github.com/i-shivamsoni/Dsa_Learning/blob/master/Image_Assets/recursion/stackinrec.png)
