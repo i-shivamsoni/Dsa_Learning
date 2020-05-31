@@ -14,6 +14,8 @@ int Factorial(int N)
 }
 int main()
 {   
+    int x;
+    std::cin>> x;
     cout<<Factorial(10);
     return 0;
 }
