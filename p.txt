@@ -1,0 +1,28 @@
+SHivAM@3098++__
+
+What's your first name?This question is required. *
+
+Thanks for that, _____. What's your last name?
+
+Currently you are in which Semester?
+
+What email address should we use to contact you?
+
+What are the technologies you are intrested in?
+
+Do you completed any Projects? if yes please Describe them.
+
+
+Which of the following volunteer activities most interests you?
+
+Which of the following volunteer activities most interests you?
+
+Lastly, do you own your own telescope, _____?
+
+Thanks for that. So _____, how would you rate your knowledge of astronomy?
+
+... build and lead a team?
+... stay positive under pressure?
+... proactively reach out and help others?
+... come up with creative solutions?
+... get things done fast?
