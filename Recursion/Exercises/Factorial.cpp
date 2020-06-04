@@ -16,6 +16,6 @@ int main()
 {   
     int x;
     std::cin>> x;
-    cout<<Factorial(10);
+    cout<<Factorial(x);
     return 0;
 }
